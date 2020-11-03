@@ -1,3 +1,13 @@
+This is a React/Javascript project that will allow a user to search some term. This project uses the Youtube API to then search up a list of 5 videos using the search term the user provides. It then displays all five videos for the user in the right hand side ad once a video is clicked on it can be played. 
+
+This project explores some fundamental concepts of React such as lifecycle methods, state, props, list generation, etc.
+
+Note this project does not include any of the build dependancies that ar eneded such as Babel, axios( the library used to make API calls), and so on. 
+
+# You Must Download The Appropiate Compiliers and Packages yourself
+
+For more information on using the app, see the commands provided by react below:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
